@@ -44,6 +44,6 @@ while true; do
         echo "Can access $CHECK_DOMAIN. No action needed."
     fi
 
-    # Esperar 5 minutos (300 segundos) antes de la siguiente verificación
+    # Esperar 30 segundos antes de la siguiente verificación
     sleep 30
 done

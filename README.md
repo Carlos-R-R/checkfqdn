@@ -1,2 +1,2 @@
 # checkfqdn
-Verificar acceso a un dominio y reconectar mediante protonvpn si no es posible
+Script en Bash que verifica el acceso a un dominio y, en caso de no ser posible, reconecta automáticamente a través de ProtonVPN.
